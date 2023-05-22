@@ -1,0 +1,1 @@
+This repository is for ai programming projects (getting more familiar with search/constraint satisfaction, bayes nets, clustering, neural networks, etc. eventually I want to be able to implement a transformer).
